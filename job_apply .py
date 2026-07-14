@@ -13,5 +13,5 @@ if strenght == 8:
    print("you are fatui harbinger class")
 elif strenght == 9 :
     print("you are archon class")
-else:
+elif strenght == 10:
     print("you are sovereign class")
